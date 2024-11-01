@@ -1,5 +1,5 @@
 <template>
-  <HelloWorld />
+  <div>testeadssad</div>
 </template>
 
 <script lang="ts" setup>
